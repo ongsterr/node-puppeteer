@@ -1,0 +1,19 @@
+{
+  "name": "jsdom-scraper",
+  "version": "1.0.0",
+  "description": "An exercise to build a web scraper using jsdom",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "scraping"
+  ],
+  "author": "chrisongg",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.1.4",
+    "puppeteer": "^1.4.0"
+  },
+  "devDependencies": {}
+}
